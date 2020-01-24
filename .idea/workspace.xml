@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4ef00b10-d74f-42d4-9fe0-c645a124f6fa" name="Default Changelist" comment="New">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="4ef00b10-d74f-42d4-9fe0-c645a124f6fa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -40,6 +38,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1579766163448</updated>
-      <workItem from="1579766170187" duration="13678000" />
+      <workItem from="1579766170187" duration="14137000" />
     </task>
     <task id="LOCAL-00001" summary="New">
       <created>1579802769145</created>
@@ -87,7 +86,28 @@
       <option name="project" value="LOCAL" />
       <updated>1579802769145</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="New">
+      <created>1579803319847</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1579803319847</updated>
+    </task>
+    <task id="LOCAL-00003" summary="New">
+      <created>1579803492359</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1579803492359</updated>
+    </task>
+    <task id="LOCAL-00004" summary="New">
+      <created>1579803514383</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1579803514383</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,13 +137,13 @@
       <screen x="0" y="0" width="1097" height="577" />
     </state>
     <state x="354" y="0" key="#com.intellij.ide.util.MemberChooser/0.0.1097.577@0.0.1097.577" timestamp="1579771604002" />
-    <state x="83" y="0" key="CommitChangelistDialog2" timestamp="1579803168134">
+    <state x="83" y="0" key="CommitChangelistDialog2" timestamp="1579803513493">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
-    <state x="83" y="0" key="CommitChangelistDialog2/0.0.1097.577@0.0.1097.577" timestamp="1579803168134" />
-    <state x="141" y="23" key="Vcs.Push.Dialog.v2" timestamp="1579802782942">
+    <state x="83" y="0" key="CommitChangelistDialog2/0.0.1097.577@0.0.1097.577" timestamp="1579803513493" />
+    <state x="141" y="23" key="Vcs.Push.Dialog.v2" timestamp="1579803516834">
       <screen x="0" y="0" width="1097" height="577" />
     </state>
-    <state x="141" y="23" key="Vcs.Push.Dialog.v2/0.0.1097.577@0.0.1097.577" timestamp="1579802782942" />
+    <state x="141" y="23" key="Vcs.Push.Dialog.v2/0.0.1097.577@0.0.1097.577" timestamp="1579803516834" />
   </component>
 </project>
